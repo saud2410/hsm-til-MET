@@ -5,7 +5,7 @@ Knight has 5 UU, 2 of them are ranged unit.<br>
 Chivalry unlocks Alhambra, which gives free promotion.<br>
 But you can't take it all because horseman obsoletes on Chivalry.<br>
 <br>
-This mod obsoletes horseman on Metallurgy.<br>
-It's basically Ctrl CV of Units.json of [yairm210/Unciv](https://github.com/yairm210/Unciv).<br>
+This simple mod obsoletes horseman and its UUs on Metallurgy.<br>
+<br>
 <br>
 2022.01.27
