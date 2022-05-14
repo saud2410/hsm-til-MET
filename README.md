@@ -1,11 +1,8 @@
-# horseman-till-Metallurgy
+# horsmn-til-metlrg
 
-Horseman has 3 UU, 2 of them have free promotions.<br>
-Knight has 5 UU, 2 of them are ranged unit.<br>
-Chivalry unlocks Alhambra, which gives free promotion.<br>
-But you can't take it all because horseman obsoletes on Chivalry.<br>
-<br>
-This simple mod obsoletes horseman and its UUs on Metallurgy.<br>
+Horseman obsoletes on Chivalry, when knight & Alhambra is enabled.<br>
+You have to give up either "horseman UU" vs "knight UU & Alhambra".<br>
+This simple mod obsoletes horseman and its UU on Metallurgy.<br>
 <br>
 <br>
 2022.01.27
